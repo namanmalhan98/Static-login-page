@@ -1,0 +1,41 @@
+.heading{
+    background-color: #00A19D;
+    padding: 20px;
+    text-align: center;
+}
+
+.img{
+    height:100%;
+    width: 100%;
+    float: left;
+    margin-top:15%;
+
+}
+
+.footer{
+   margin-bottom: 0px;
+    background-color: #00A19D;
+    padding: 20px;
+    text-align: center;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+}
+
+#part2{
+    margin-top: 9%;
+}
+
+.h3{
+    text-align: center;
+}
+
+.form-control1{
+    margin-right: 2%;
+}
+
+#btn2{
+margin-left: 2%;
+}
